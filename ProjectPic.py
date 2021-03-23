@@ -7,7 +7,7 @@ from ProjectPicBot import SampleAnimationCard
 app = Flask(__name__)
 loop = asyncio.get_event_loop()
 
-botsettings = BotFrameworkAdapterSettings("","")
+botsettings = BotFrameworkAdapterSettings("904c7091-6713-41da-825e-7d6a124e1791","97808a39-4cb4-4346-b041-477272073447")
 botadapter = BotFrameworkAdapter(botsettings)
 
 CONMEMORY = ConversationState(MemoryStorage())
