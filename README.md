@@ -1,1 +1,1 @@
-# Bot Project
+# Simple Bot Project
